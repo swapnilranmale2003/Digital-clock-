@@ -25,3 +25,14 @@ body {
   align-items: center;
   font-size: 48px;
 }
+
+#day{
+    background-color: white;
+  border-radius: 5px;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+}
