@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(23, 23, 23);
+}
+.container {
+  max-width: 1200px;
+  margin: auto;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h1 {
+  color: green;
+}
+
+#digital-clock {
+  background-color: white;
+  border-radius: 5px;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
+}
