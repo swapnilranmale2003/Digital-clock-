@@ -39,3 +39,16 @@ body {
   text-align: center;
   
 }
+  
+
+.hero pre{
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+span{
+    color: red;
+}
